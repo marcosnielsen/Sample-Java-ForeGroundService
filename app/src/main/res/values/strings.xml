@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Start Foreground Service</string>
+    <string name="LabelStartService">inicia o serviço</string>
+    <string name="LabelStopService">Para o serviço</string>
+</resources>
